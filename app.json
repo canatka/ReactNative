@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "rn-todo-list",
+    "slug": "rn-todo-list",
+    "version": "3.0.0",
+    "orientation": "portrait",
+    "scheme": "rntodolist",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"],
+    "ios": { "supportsTablet": true },
+    "android": {},
+    "web": { "bundler": "metro" },
+    "experiments": { "typedRoutes": true }
+  }
+}
